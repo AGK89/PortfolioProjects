@@ -1,5 +1,7 @@
 # Data Cleaning in SQL Queries
 
+![alt text]()
+
 This repository contains SQL queries designed for cleaning and standardizing data in the `NashvilleHousing` dataset. These queries address various data cleaning tasks such as standardizing date formats, populating missing property addresses, breaking down addresses into individual columns, transforming fields, removing duplicates, and dropping unused columns. Below is an overview of each query's purpose and functionality:
 
 ## Standardize Date Format
