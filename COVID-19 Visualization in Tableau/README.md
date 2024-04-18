@@ -31,7 +31,7 @@ Visualize the following in Tableau:
 
 
 
-![alt text](https://github.com/AmalGKrishnan/PortfolioProjects/blob/master/COVID-19%20Visualization%20in%20Tableau/images/Dashboard_Tableau.png)
+![alt text](https://github.com/AGK89/PortfolioProjects/blob/main/COVID-19%20Visualization%20in%20Tableau/images/Dashboard_Tableau.png)
 
 
 ### Thank you!!
