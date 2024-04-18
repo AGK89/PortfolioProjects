@@ -1,4 +1,4 @@
-# Data Cleaning in SQL Queries
+# Data Cleaning using SQL - Nashville Housing Data
 
 ![alt text](https://github.com/AGK89/PortfolioProjects/blob/main/Data%20Cleaning%20using%20SQL%20-%20Nashville%20Housing%20Data/Nashville_Housing_Data.jpg)
 
